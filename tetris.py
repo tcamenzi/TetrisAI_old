@@ -1,3 +1,4 @@
+#test
 def runOnce():
     ROWS_CLEARED = 0
     # Define the colors we will use in RGB format
